@@ -1,0 +1,14 @@
+{
+    "clientes": [
+        {
+            "nombre": "",
+            "apellidos": "",
+            "telefono": "",
+            "dni": "",
+            "direccion": "",
+            "postal": "",
+            "ciudad": ""
+        }
+
+    ]
+}
