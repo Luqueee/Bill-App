@@ -1,2 +1,2 @@
-# app facturas
-App para gestionar albaranes (Margen de venta + IVA), clientes, generar facturas y presupuestos
+# Bill App with customtkinter
+App to manage delivery notes (Sales Margin + VAT), customers, generate invoices and quotations
